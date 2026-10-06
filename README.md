@@ -12,7 +12,7 @@ source .venv/bin/activate        # Windows: .venv\Scripts\activate
 pip install -r requirements.txt
 ```
 
-## Data (not committed)
+## Data 
 Download from https://magenta.tensorflow.org/datasets/maestro :
 - `maestro-v3.0.0-midi.zip`
 - `maestro-v3.0.0.csv`
@@ -38,4 +38,4 @@ Choose composers explicitly with `--composers "Johann Sebastian Bach" "Frédéri
 - Analysis: feature-group ablation and permutation feature importance.
 
 ## Authors
-<team member names / SRNs>
+<KR Tanishkaa, Kota Videesha / PES1UG24AM126,PES1UG24AM140>
